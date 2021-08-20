@@ -1,0 +1,9 @@
+.input {
+    width: 300px;
+    max-width: 100%;
+    min-height: 60px;
+    outline: none;
+    border: 1px solid #eee;
+    padding: 0 20px;
+    font-size: 1rem;
+}

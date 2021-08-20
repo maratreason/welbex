@@ -1,0 +1,21 @@
+.table {
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #eee;
+    border-bottom: none;
+}
+
+tr:hover {
+    background: #fcfcfc;
+}
+
+th, td {
+    border-bottom: 1px solid #eee;
+    border-right: 1px solid #eee;
+    padding: 10px 0;
+    text-align: center;
+}
+
+th:last-child, td:last-child {
+    border-right: none;
+}
